@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>887</width>
+    <height>551</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QGridLayout" name="gridLayout"/>
+  </widget>
+  <action name="actionasdasdasd">
+   <property name="text">
+    <string>asdasdasd</string>
+   </property>
+  </action>
+  <action name="actionfgh">
+   <property name="text">
+    <string>fgh</string>
+   </property>
+  </action>
+  <action name="actionxcvxsdfsdfsdf">
+   <property name="text">
+    <string>xcvxsdfsdfsdf</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
